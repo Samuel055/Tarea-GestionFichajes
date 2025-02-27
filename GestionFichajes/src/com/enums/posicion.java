@@ -1,5 +1,5 @@
 package com.enums;
 
-public class posicion {
-    
+public enum posicion {
+    delantero, defensa, mediocampista, portero;
 }
